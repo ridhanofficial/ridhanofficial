@@ -30,6 +30,13 @@ Hi there! 👋 I'm Ridhan, a passionate video editor and developer, specializing
 
 ---
 
+## 📊 **GitHub Stats**  
+
+![Ridhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RidhanR&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RidhanR&layout=compact&theme=radical)  
+
+---
+
 ## 📫 **Connect with Me**  
 - **Instagram:** [@RidhanOfficial_](https://instagram.com/RidhanOfficial_)  
 - **Telegram:** [Ridhan Official](https://t.me/RidhanOfficial)  
