@@ -32,8 +32,8 @@ Hi there! 👋 I'm Ridhan, a passionate video editor and developer, specializing
 
 ## 📊 **GitHub Stats**  
 
-![Ridhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RidhanR&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RidhanR&layout=compact&theme=radical)  
+![Ridhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ridhanofficial&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ridhanofficial&layout=compact&theme=radical)  
 
 ---
 
