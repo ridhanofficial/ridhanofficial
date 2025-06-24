@@ -1,6 +1,6 @@
 # 💻 **Ridhan R**  
 
-🎥 **EFX Video Editor | ML Enthusiast | Web Developer | Startup Founder**  
+🎥 **EFX Video Editor | ML Enthusiast | Web Developer**  
 
 Hi there! 👋 I'm Ridhan, a passionate video editor and developer, specializing in creating top-notch **After Effects** and **Premiere Pro** content. 
 
