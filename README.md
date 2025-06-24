@@ -2,7 +2,7 @@
 
 🎥 **EFX Video Editor | ML Enthusiast | Web Developer | Startup Founder**  
 
-Hi there! 👋 I'm Ridhan, a passionate video editor and developer, specializing in creating top-notch **After Effects** and **Premiere Pro** content. I also run my startup, **Atodoz**, focusing on innovative IT solutions powered by IoT and AI/ML technologies.  
+Hi there! 👋 I'm Ridhan, a passionate video editor and developer, specializing in creating top-notch **After Effects** and **Premiere Pro** content. 
 
 ---
 
