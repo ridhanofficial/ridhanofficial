@@ -16,7 +16,6 @@ Hi there! 👋 I'm Ridhan, a passionate video editor and developer, specializing
 ---
 
 ## 🌟 **What I Do**  
-🚀 **Founder at Atodoz:** Delivering IT solutions that integrate IoT and AI/ML technologies.  
 🎬 **EFX Editing:** Crafting **30-second reels, status videos**, and **quality settings presets**.  
 🌐 **Web Projects:** Building elegant, interactive, and user-friendly web apps like YouTube downloaders, image classifiers, and admin dashboards.  
 🎓 **AI/ML Research:** Tackling real-world problems with innovative AI/ML approaches, like CAPTCHA refinement and predictive modeling.  
@@ -24,7 +23,6 @@ Hi there! 👋 I'm Ridhan, a passionate video editor and developer, specializing
 ---
 
 ## 📈 **Current Focus**  
-- Growing **Atodoz** through collaborations with partners like **Cube AI Solutions**.  
 - Developing a chatbot for Instagram followers, answering questions on video editing tools.  
 - Exploring advanced video enhancement pipelines and ML-driven applications.  
 
